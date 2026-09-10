@@ -1,0 +1,12 @@
+pipeline:
+  name: scientific-data-platform
+  version: "0.1.0"
+  dataset: GSE60450
+
+quality:
+  max_metadata_null_fraction: 0.0
+
+storage:
+  raw: raw
+  curated: curated
+  warehouse: warehouse

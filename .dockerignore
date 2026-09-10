@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+.pytest_cache
+.ruff_cache
+.nextflow
+work
+results
+results-docker
+__pycache__
+*.duckdb
+*.duckdb.wal

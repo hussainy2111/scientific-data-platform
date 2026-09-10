@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Nextflow
+.nextflow/
+.nextflow.log*
+work/
+
+# Pipeline outputs
+results/
+results-docker/
+
+# Databases
+*.duckdb
+*.duckdb.wal
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

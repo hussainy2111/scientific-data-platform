@@ -1,0 +1,7 @@
+duckdb>=1.5,<2
+pandas>=2.2,<3
+pyarrow>=18,<24
+PyYAML>=6,<7
+requests>=2.31,<3
+pytest>=8,<10
+ruff>=0.8,<1
